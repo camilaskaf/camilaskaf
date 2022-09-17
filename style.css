@@ -10,3 +10,19 @@ h1{
 p{
     font-family: Arial, Helvetica, sans-serif;
 }
+.qualitys{
+
+}
+
+div:nth-of-type(1){
+font-size: 8px;
+}
+div:nth-of-type(2){
+font: size 14px;;
+}
+div:nth-of-type(3){
+font-size: 30px;
+}
+div:nth-of-type(4){
+font-size: 50px;
+}
